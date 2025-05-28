@@ -1,4 +1,3 @@
-import React from 'react';
 import useHabitStore, { Habit } from '../store/store';
 import { Box, Button, Grid, LinearProgress, Paper, Typography } from '@mui/material';
 // import CheckCircleIcon from '@mui/icons-material/CheckCircle';
